@@ -1,0 +1,14 @@
+body {
+  font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif !important;
+  letter-spacing: -.17px !important;
+}
+
+.display-3 {
+  font-size: 3.5rem;
+}
+
+p{
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+  letter-spacing: .01rem
+}
+
